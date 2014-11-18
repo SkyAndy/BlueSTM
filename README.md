@@ -1,4 +1,4 @@
-BlueSTM
+BlueSTM ![alt tag](https://github.com/SkyAndy/BlueSTM/blob/master/app/src/main/ic_launcher-web.png)
 
 einfaches Projekt um mit dem STM32F via Bluetooth mit dem [HC-05](http://www.google.com/search?q=HC-05&oq=HC-05) 
 von Android aus zu kommunizieren.
